@@ -8,7 +8,7 @@ Curso de MySQL (Curso em Vídeo) Previsão de conclusão 2024
 - 👀 Estou aberto a aprender
 - 📫 Como entrar em contato comigo:
 - email: paulolemoine.ti24@gmail.com
-- instagram: @p_lemoinepaes
+- Linkedin: Paulo Lemoine
 
 <!---
 PauloLemoine/PauloLemoine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
