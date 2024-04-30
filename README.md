@@ -5,6 +5,7 @@
 Curso de Algoritmo na plataforma (Curso em Vídeo) concluído em 2024
 - 🌱Cursos em Andamento:
 Curso de MySQL (Curso em Vídeo) Previsão de conclusão 2024
+Curso de Git e GitHub (Curso em vídeo) Previsão de conclusão 2024
 - 👀 Estou aberto a aprender
 - 📫 Como entrar em contato comigo:
 - email: paulolemoine.ti24@gmail.com
