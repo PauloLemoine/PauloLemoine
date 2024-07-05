@@ -1,6 +1,6 @@
 - 👋 Olá, Eu sou @PauloLemoine
 - Atualmente, estou no primeiro período do curso de Análise e Desenvolvimento de Sistemas na Faculdade Senac-PE
-- Atualmente, estou Gerente de Projetos do meu grupo para o evento "Projetaí"
+- Tive a experiência de ser Gerente de Projetos do meu grupo para o evento "Projetaí"
 - 🌱 Cursos Concluídos:
 Curso de Algoritmo na plataforma (Curso em Vídeo) concluído em 2024
 - 🌱Cursos em Andamento:
